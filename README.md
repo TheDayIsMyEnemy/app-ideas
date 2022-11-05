@@ -6,21 +6,37 @@
 
 # Projects  :mag:
 
-## Quiz battle  
+# Quiz battle  
 <br />
 
-## Blazor WebAssembly game  
+
+
+# Blazor WebAssembly game  
+
+### References
+ * https://github.com/amolenk/GameATron4000   
+ * https://github.com/fernandreu/blazor-pages
 <br />
 
-## Contribution graph pixel art
+
+
+
+# Contribution graph pixel art
+
+## Requiremenets
 
 * Trigger a workflow
 * Calculate a recurring event
 * Push a commit
 
-## News feed profile readme
+### References
+* https://github.com/gelstudios/gitfiti
 
- ### Requirements
+
+
+# News feed profile readme
+
+### Requirements
 
 * Specify topics, keywords and time interval to trigger an action
 * GitHub Actions
@@ -30,7 +46,7 @@
 
 
 
-## Sports betting bot
+# Sports betting bot
 
 ### Requirements
 
@@ -61,7 +77,7 @@
 * Arbitrage
   * Checks betting odds for a certain event and automatically calculate whether an arbitrage bet is possible
 
-#### References
+### References
 
 * Research
   * https://en.wikipedia.org/wiki/Arbitrage_betting  
