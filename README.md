@@ -1,8 +1,20 @@
-# App ideas collection :boom: 
+# A collection of App ideas :boom:   
+
+<br />
+<br />
+
+
+# Projects  :mag:
+
+## Contribution graph pixel art
+
+* Trigger a workflow
+* Calculate a recurring event
+* Push a commit
 
 ## News feed profile readme
 
-### Requirements
+ ### Requirements
 
 * Specify topics, keywords and time interval to trigger an action
 * GitHub Actions
