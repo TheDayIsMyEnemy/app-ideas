@@ -1,8 +1,20 @@
-# app-ideas
+# App ideas collection :boom: 
 
-## Sports Betting Bot
+## News feed profile readme
 
-### Description
+### Requirements
+
+* Specify topics, keywords and time interval to trigger an action
+* GitHub Actions
+  * [Events that triggers workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+* Fetch and filter data 
+* Update profile readme 
+
+
+
+## Sports betting bot
+
+### Requirements
 
 * Sports Database
   * Types of Sports games
