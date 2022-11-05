@@ -6,6 +6,12 @@
 
 # Projects  :mag:
 
+## Quiz battle  
+<br />
+
+## Blazor WebAssembly game  
+<br />
+
 ## Contribution graph pixel art
 
 * Trigger a workflow
