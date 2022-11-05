@@ -10,3 +10,4 @@
 #### References
 
 https://en.wikipedia.org/wiki/Arbitrage_betting
+https://github.com/georgedouzas/sports-betting
