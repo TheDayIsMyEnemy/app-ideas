@@ -4,6 +4,26 @@
 
 # Projects  :mag:
 
+## Questionnaire  
+<p> Create a dynamic questionnaire based on a list of questions provided </p>
+
+The structure of the questions are as follows:  
+  * The questions are n-tiered and subsequent questions are asked based on the responses 
+    or series of responses of previous questions.
+* In general, the questions are grouped, such that a set of questions are asked and that
+determines if additional questions need to be added. Similar to the structure of a
+treenode, where more questions are revealed if a node is clicked.
+*  The questions need to be asked one at a time
+*  The responses to the questions can be Boolean, radio selection (Boolean can fit here),
+checkbox selection, checkbox selection with “other” textbox, or informational textbox.
+*  Each question is assigned a “point” value, and this needs to be recorded and reported to
+tabulate a response
+*  from the Analyst – this point value is typically used to discretionary display further
+questions depending on the value reported.
+* The initial question (tier 0) is the acceptance of a disclaimer.
+*  There are domains for the sets of questions (aka categories) and this does not need to be
+displayed
+
 ## Synonyms game  
 https://wordnet.princeton.edu/  
 https://dictionaryapi.dev/  
