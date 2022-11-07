@@ -6,6 +6,7 @@
 
 ## Database diagram visualizer for Entity Framework
 
+## Web API generator from JSON file
 
 ## Unit test generator
 > A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
