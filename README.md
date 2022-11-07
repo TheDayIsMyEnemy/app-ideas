@@ -1,20 +1,30 @@
-# A collection of application ideas :boom:
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/34052076/200351617-af833e4e-6064-4d2f-b618-91c6f4a26296.svg">
+</p>  
 
-<br />
+<br>
+<br>
 
-# Projects  :mag:
+## Database diagram visualizer for Entity Framework  
 
-## Database diagram visualizer for Entity Framework
 
-## Web API generator from JSON file
+
+## Web API generator from JSON file  
+
+
 
 ## Unit test generator
+
 > A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
 
+
+
 ### References  
-https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022 
-https://github.com/cweill/gotests  
-https://github.com/ed4becky/jest-unit-test-generator
+- https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022 
+- https://github.com/cweill/gotests  
+- https://github.com/ed4becky/jest-unit-test-generator
+
+
 
 ## Questionnaire  
 <p> Create a dynamic questionnaire based on a list of questions provided </p>
@@ -37,22 +47,29 @@ questions depending on the value reported.
 displayed
 
 ## Synonyms game  
-https://wordnet.princeton.edu/  
-https://dictionaryapi.dev/  
-https://developer.oxforddictionaries.com/documentation  
+
+- https://wordnet.princeton.edu/  
+- https://dictionaryapi.dev/  
+- https://developer.oxforddictionaries.com/documentation  
+
+
 
 ## Blazor WebAssembly game  
-https://github.com/amolenk/GameATron4000   
-https://github.com/fernandreu/blazor-pages  
+- https://github.com/amolenk/GameATron4000   
+- https://github.com/fernandreu/blazor-pages  
+
+
 
 ## Contribution graph pixel art
 ### Requiremenets  
-* Trigger a workflow
-* Calculate a recurring event
-* Push a commit
+- Trigger a workflow
+- Calculate a recurring event
+- Push a commit
 
 ### References
-* https://github.com/gelstudios/gitfiti  
+- https://github.com/gelstudios/gitfiti  
+
+
 
 ## News feed profile readme  
 ### Requirements  
@@ -62,7 +79,8 @@ https://github.com/fernandreu/blazor-pages
 * Fetch and filter data 
 * Update profile readme 
 
-## Sports betting bot  
+## Sports betting bot 
+
 ### Requirements  
 * Sports Database
   * Types of Sports games
@@ -92,8 +110,8 @@ https://github.com/fernandreu/blazor-pages
   * Checks betting odds for a certain event and automatically calculate whether an arbitrage bet is possible
 
 ### References  
-https://en.wikipedia.org/wiki/Arbitrage_betting  
-https://github.com/georgedouzas/sports-betting    
-https://www.premierleague.com/stats/top/players/goals?se=489  
-https://data.world/datasets/sports  
-https://datahub.io/collections/football
+- https://en.wikipedia.org/wiki/Arbitrage_betting  
+- https://github.com/georgedouzas/sports-betting    
+- https://www.premierleague.com/stats/top/players/goals?se=489  
+- https://data.world/datasets/sports  
+- https://datahub.io/collections/football
