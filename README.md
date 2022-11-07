@@ -4,6 +4,17 @@
 
 # Projects  :mag:
 
+## Database diagram visualizer for Entity Framework
+
+
+## Unit test generator
+> A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
+
+### References  
+https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022 
+https://github.com/cweill/gotests  
+https://github.com/ed4becky/jest-unit-test-generator
+
 ## Questionnaire  
 <p> Create a dynamic questionnaire based on a list of questions provided </p>
 
