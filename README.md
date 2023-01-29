@@ -1,29 +1,38 @@
-<p align="center">
+# A collection of app ideas to build and level up your coding skills 
+ 
+
+
+<p align="center" style="margin-top: 20px;">
    <img src="https://user-images.githubusercontent.com/34052076/200351617-af833e4e-6064-4d2f-b618-91c6f4a26296.svg">
 </p>  
 
-<br>
-<br>
 
+
+***
 ## Database diagram visualizer for Entity Framework  
+- It automatically creates a database diagram image when there are new migrations
+- by using reflection ?
+- by using the designer file ?
+- optionally add it as a github action and save it to the project dir, and add a reference to it in the readme file
+
+### Useful links and resources
+- https://github.com/azimuttapp/azimutt
+***
 
 
 
 ## Web API generator from JSON file  
-
+***
 
 
 ## Unit test generator
-
 > A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
 
-
-
-### References  
+### Useful links and resources  
 - https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022 
 - https://github.com/cweill/gotests  
 - https://github.com/ed4becky/jest-unit-test-generator
-
+***
 
 
 ## Questionnaire  
@@ -45,43 +54,49 @@ questions depending on the value reported.
 * The initial question (tier 0) is the acceptance of a disclaimer.
 *  There are domains for the sets of questions (aka categories) and this does not need to be
 displayed
+***
+
+
 
 ## Synonyms game  
-
 - https://wordnet.princeton.edu/  
 - https://dictionaryapi.dev/  
 - https://developer.oxforddictionaries.com/documentation  
+***
 
 
 
 ## Blazor WebAssembly game  
+
+### Useful links and resources
 - https://github.com/amolenk/GameATron4000   
 - https://github.com/fernandreu/blazor-pages  
+***
 
 
 
 ## Contribution graph pixel art
-### Requiremenets  
 - Trigger a workflow
 - Calculate a recurring event
 - Push a commit
 
-### References
+### Useful links and resources
 - https://github.com/gelstudios/gitfiti  
+***
 
 
 
 ## News feed profile readme  
-### Requirements  
 * Specify topics, keywords and time interval to trigger an action
 * GitHub Actions
   * [Events that triggers workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
 * Fetch and filter data 
 * Update profile readme 
+***
+
 
 ## Sports betting bot 
 
-### Requirements  
 * Sports Database
   * Types of Sports games
     * Football
@@ -109,9 +124,12 @@ displayed
 * Arbitrage
   * Checks betting odds for a certain event and automatically calculate whether an arbitrage bet is possible
 
-### References  
+### Useful links and resources  
 - https://en.wikipedia.org/wiki/Arbitrage_betting  
 - https://github.com/georgedouzas/sports-betting    
 - https://www.premierleague.com/stats/top/players/goals?se=489  
 - https://data.world/datasets/sports  
 - https://datahub.io/collections/football
+
+
+
