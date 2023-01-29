@@ -9,7 +9,7 @@
 
 
 ***
-## Database diagram visualizer for Entity Framework  
+## :zap: Database diagram visualizer for Entity Framework  
 - It automatically creates a database diagram image when there are new migrations
 - by using reflection ?
 - by using the designer file ?
@@ -21,11 +21,11 @@
 
 
 
-## Web API generator from JSON file  
+## :zap: Web API generator from JSON file  
 ***
 
 
-## Unit test generator
+## :zap: Unit test generator
 > A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
 
 ### Useful links and resources  
@@ -35,7 +35,7 @@
 ***
 
 
-## Questionnaire  
+## :zap: Questionnaire  
 <p> Create a dynamic questionnaire based on a list of questions provided </p>
 
 The structure of the questions are as follows:  
@@ -58,7 +58,7 @@ displayed
 
 
 
-## Synonyms game  
+## :zap: Synonyms game  
 - https://wordnet.princeton.edu/  
 - https://dictionaryapi.dev/  
 - https://developer.oxforddictionaries.com/documentation  
@@ -66,7 +66,7 @@ displayed
 
 
 
-## Blazor WebAssembly game  
+## :zap: Blazor WebAssembly game  
 
 ### Useful links and resources
 - https://github.com/amolenk/GameATron4000   
@@ -75,7 +75,7 @@ displayed
 
 
 
-## Contribution graph pixel art
+## :zap: Contribution graph pixel art
 - Trigger a workflow
 - Calculate a recurring event
 - Push a commit
@@ -86,7 +86,7 @@ displayed
 
 
 
-## News feed profile readme  
+## :zap: News feed profile readme  
 * Specify topics, keywords and time interval to trigger an action
 * GitHub Actions
   * [Events that triggers workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
@@ -95,7 +95,7 @@ displayed
 ***
 
 
-## Sports betting bot 
+## :zap: Sports betting bot 
 
 * Sports Database
   * Types of Sports games
