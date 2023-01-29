@@ -2,8 +2,8 @@
  
 
 
-<p align="center" style="margin-top: 20px;">
-   <img src="https://user-images.githubusercontent.com/34052076/200351617-af833e4e-6064-4d2f-b618-91c6f4a26296.svg">
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/34052076/200351617-af833e4e-6064-4d2f-b618-91c6f4a26296.svg" height="250">
 </p>  
 
 
