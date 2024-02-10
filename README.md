@@ -118,3 +118,12 @@ displayed
   - <https://www.premierleague.com/stats/top/players/goals?se=489>
   - <https://data.world/datasets/sports>
   - <https://datahub.io/collections/football>
+
+## Compiler/Interpreter for Rust
+
+- ByteCode Interpreter for rust
+     - Have you ever been so bored out of your mind that you would do anything to not be?
+       Well, no more! Now, you can rewrite the entire fucking rust compiler to use a
+       bytecode interpreter instead of a compiler, and have it run on ANY device!
+       Don't want to rewrite a compiler? too bad, now you're too invested in the idea to not!
+       Have fun doing the near impossible!
