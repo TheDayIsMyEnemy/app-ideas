@@ -119,7 +119,7 @@ displayed
   - <https://data.world/datasets/sports>
   - <https://datahub.io/collections/football>
 
-## Compiler/Interpreter for Rust
+## Bytecode Compiler/Interpreter for Rust
 
 - ByteCode Interpreter for rust
      - Have you ever been so bored out of your mind that you would do anything to not be?
