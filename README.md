@@ -1,45 +1,54 @@
-# A collection of app ideas to build and level up your coding skills
+# App Ideas
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/34052076/200351617-af833e4e-6064-4d2f-b618-91c6f4a26296.svg" alt="logo" height="200">
+   <img src="/assets/images/electrocat.png" alt="logo" height="200">
 </p>
+
+## Bytecode Compiler/Interpreter for Rust
+
+Create a Bytecode Interpreter for Rust, allowing code execution on a variety of devices. This project provides a unique challenge to deepen your understanding of Rust internals and compiler design.
+
+- Explore [Rust Programming Language](https://www.rust-lang.org/).
+- Learn how compilers work [here](https://stackify.com/how-do-compilers-work/).
+- Understand what [bytecode](https://en.wikipedia.org/wiki/Bytecode) is.
+- Research how [bytecode interpreters](https://compilers.iecc.com/crenshaw/tutor5.pdf) function.
+- Dive into the [Rustc Guide](https://rustc-dev-guide.rust-lang.org/).
+- Pinpoint components of the [Rust compiler](https://github.com/rust-lang/rust) to modify.
+- Begin implementing bytecode interpretation for basic Rust constructs.
+- Gradually extend the interpreter to cover more Rust features with guidance from [Crafting Interpreters](https://craftinginterpreters.com/).
 
 ## Material Design Theme + MudBlazor
 
-- Generate as many as possible palettes based on your Primary/Secondary colors
-- Generate palettes using palette generator: <https://coolors.co/account/general> , or similar one <https://mycolor.space/>
-- Color theme creation
-- Theming rules / methods: <https://m2.material.io/design/material-theming/implementing-your-theme.html#color>
-- Add similar rules for creating custom theme: <https://m3.material.io/theme-builder#/dynamic> , or use the existing one
-- Create, or use already exported css files that overrides MudBlazor theme
-- MudBlazor is based on Material but some of the properties are missing, implement it by creating custom css, or components
-- Create a custom component in MudBlazor that loads different themes/css, in order to visualize it
-- Something similar or implemented on top of <https://github.com/MudBlazor/ThemeManager> that works directly with css bundles, so you don't need to manually click/select
-- Bonus: Rules/Tool for creating Dark Theme or vice verse.. It probably already exists
+- Generate as many palettes as possible based on your Primary/Secondary colors.
+- Utilize a palette generator like [Coolors](https://coolors.co/account/general) or a similar one such as [MyColor](https://mycolor.space).
+- Explore color theme creation following the theming rules/methods outlined [here](https://m2.material.io/design/material-theming/implementing-your-theme.html#color).
+- Extend theming capabilities with tools like [Material Theme Builder](https://m3.material.io/theme-builder#/dynamic) or existing ones.
+- Implement or use already exported CSS files to override MudBlazor themes.
+- Enhance MudBlazor by addressing missing properties through custom CSS or components.
+- Develop a custom MudBlazor component for loading different themes/CSS to visualize them effectively.
+- Explore solutions like [ThemeManager](https://github.com/MudBlazor/ThemeManager) for seamless integration with CSS bundles.
 
-## Database diagram visualizer for Entity Framework
 
-- It automatically creates a database diagram image when there are new migrations
-- by using reflection ?
-- by using the designer file ?
-- optionally add it as a github action and save it to the project dir, and add a reference to it in the readme file
-- <https://github.com/azimuttapp/azimutt>
+## Database Diagram Visualizer for Entity Framework
 
-## Web API generator from JSON file
+- Automatically generate a database diagram image upon the introduction of new migrations.
+- Investigate methods such as reflection or designer files for efficient implementation.
+- Optionally, integrate it as a GitHub action, save it to the project directory, and reference it in the readme file.
+- For inspiration, refer to [Azimutt](https://github.com/azimuttapp/azimutt).
 
-## Unit test generator
+## Web API Generator from JSON file
+
+
+## Unit Test Generator
 
 > A case analysis is performed for every conditional branch in the code. For example, if statements, assertions, and all operations that can throw exceptions are analyzed. This analysis is used to generate test data for a parameterized unit test for each of your methods, creating unit tests with high code coverage.
 
-- <https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022>
-- <https://github.com/cweill/gotests>
-- <https://github.com/ed4becky/jest-unit-test-generator>
+- Refer to resources like Visual Studio [Unit Test Generation](https://learn.microsoft.com/en-us/visualstudio/test/generate-unit-tests-for-your-code-with-intellitest?view=vs-2022).
+- Explore tools such as [gotests](https://github.com/cweill/gotests) and [jest-unit-test-generator](https://github.com/ed4becky/jest-unit-test-generator).
 
 ## Questionnaire
 
-Create a dynamic questionnaire based on a list of questions provided
-
-The structure of the questions are as follows:
+Develop a dynamic questionnaire based on a list of questions with the following structure:
 
 - The questions are n-tiered and subsequent questions are asked based on the responses
     or series of responses of previous questions.
@@ -57,64 +66,42 @@ questions depending on the value reported.
 - There are domains for the sets of questions (aka categories) and this does not need to be
 displayed
 
-## Synonyms game
+## Synonyms Game
 
-- <https://wordnet.princeton.edu/>
-- <https://dictionaryapi.dev/>
-- <https://developer.oxforddictionaries.com/documentation>
+- Utilize resources like [WordNet](https://wordnet.princeton.edu) and [Dictionary API](https://dictionaryapi.dev).
+- Explore [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation).
 
-## Blazor WebAssembly game
+## Blazor WebAssembly Game
 
-- <https://github.com/amolenk/GameATron4000>
-- <https://github.com/fernandreu/blazor-pages>
+- Explore projects like [GameATron4000](https://github.com/amolenk/GameATron4000) and [Blazor Pages](https://github.com/fernandreu/blazor-pages).
 
-## Contribution graph pixel art
+## Contribution Graph Pixel Art
 
-- Trigger a workflow
-- Calculate a recurring event
-- Push a commit
-- <https://github.com/gelstudios/gitfiti>
+- Implement a workflow triggered by events like recurring events or commit pushes.
+- Explore [Gitfiti](https://github.com/gelstudios/gitfiti) for inspiration.
 
-## News feed profile readme
+## News Feed Profile Readme
 
-- Specify topics, keywords and time interval to trigger an action
-- GitHub Actions
-  - [Events that triggers workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
-- Fetch and filter data
-- Update profile readme
+- Implement a workflow triggered by events like recurring events or commit pushes.
+- Utilize GitHub Actions with a focus on events triggering workflows.
+- Fetch and filter data to update the profile readme.
 
-## Sports betting bot
+## Sports Betting Bot
 
-- Sports Database
-  - Types of Sports games
-    - Football
-      - club, league, country
-      - club statistics: wins, losses, touches, own goals, yellow cards, red cards, goals,
-      passes, shots, offsides, hit woodwork, big chances missed, tackles, clearances,
-      clearances off line, dispossessed, clean sheets, saves, penalties saved, high claims, punches
-      - season ?
-      - players: club, nationality, position
-      - player position: Goalkeeper, Defender, Midfielder, Forward
-      - league player statistics: goals, assists, clean sheets, appearances, minutes played, yellow cards,
-      passes, touches, shots, hit woodwork, big chances missed, tackles ( stats is saved by season for comparison )
-  - Game results ( datetime, teams, score, odds )
-  - Game rules for calculating winning conditions?
+- Leverage sports databases, categorizing sports games and player statistics.
+- Implement features for football leagues, clubs, and player statistics.
+- Include game results, odds, and rules for calculating winning conditions.
+- Explore Selenium or other tools for website login.
+- Implement data scraping for odds and sports-related news.
+- Incorporate arbitrage checks for betting odds using available resources.
+- Useful Links
+  - [Arbitrage Betting](https://en.wikipedia.org/wiki/Arbitrage_betting)
+  - [Sports Betting](https://github.com/georgedouzas/sports-betting)
+  - [Premier League Statistics](https://www.premierleague.com/stats/top/players/goals?se=489)
+  - [Data Sources](https://data.world/datasets/sports)
+  - [Football Data Hub](https://datahub.io/collections/football)
 
-- Log In
-  - by using Selenium or any other other tool
-  - by using a list of user credentials for each website
 
-- Data Scraping
-  - odds from selected bookmakers
-  - news about sports games
-  - history for a game, player or any other related data
+### Contribution
 
-- Arbitrage
-  - Checks betting odds for a certain event and automatically calculate whether an arbitrage bet is possible
-
-- Some links
-  - <https://en.wikipedia.org/wiki/Arbitrage_betting>
-  - <https://github.com/georgedouzas/sports-betting>
-  - <https://www.premierleague.com/stats/top/players/goals?se=489>
-  - <https://data.world/datasets/sports>
-  - <https://datahub.io/collections/football>
+Feel free to suggest new ideas or improvements. Happy coding!
