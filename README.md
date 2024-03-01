@@ -1,10 +1,5 @@
 # CodeBoost: App Concepts
 
-<p align="">
-   <img src="https://github.com/TheDayIsMyEnemy/app-ideas/assets/34052076/c83970e6-8792-4863-8b6f-5bbaaee0bc0c" alt="logo" height="720" width="1280">
-
-</p>
-
 ## Bytecode Compiler/Interpreter for Rust
 
 Create a Bytecode Interpreter for Rust, allowing code execution on a variety of devices. This project provides a unique challenge to deepen your understanding of Rust internals and compiler design.
