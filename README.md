@@ -1,7 +1,8 @@
-# App Ideas
+# CodeBoost: App Concepts
 
-<p align="center">
-   <img src="/assets/images/electrocat.png" alt="logo" height="200">
+<p align="">
+   <img src="https://github.com/TheDayIsMyEnemy/app-ideas/assets/34052076/c83970e6-8792-4863-8b6f-5bbaaee0bc0c" alt="logo" height="720" width="1280">
+
 </p>
 
 ## Bytecode Compiler/Interpreter for Rust
